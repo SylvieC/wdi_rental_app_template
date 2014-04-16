@@ -1,3 +1,4 @@
+Exercise in WDI program - The goal is to get more familiar with the way classes are used in Rails
 Land Lord 1.0
 =============
 
